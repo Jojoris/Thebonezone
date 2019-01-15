@@ -1,4 +1,4 @@
 function blast(teller) {
-teller++;
-teller--;
+  teller++;
+  return teller;
 }
